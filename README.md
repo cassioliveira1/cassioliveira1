@@ -4,7 +4,7 @@
   <li>&#128165 Desenvolvedor Front-End</li>
   <li>Estudante de Análise e Desenvolvimento de Sistemas</li>
   <li>Graduado em Engenharia Civil</li>
-  <li>Amante de games, futebol e tecnologia em geral</li>
+  <li>Principais skills: HTML, CSS e Javascript</li>
 </ul>
 
 
