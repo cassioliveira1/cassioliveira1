@@ -1,9 +1,10 @@
 <h1>Hey, eu sou Cassiano Oliveira!</h1>
 <hr>
 <ul>
-  <li>&#128165 Desenvolvedor Front-End.</li>
-  <li>Em busca da primeira oportunidade como dev.</li>
-  <li>Amante da tecnologia!</li>
+  <li>&#128165 Desenvolvedor Front-End</li>
+  <li>Estudante de Análise e Desenvolvimento de Sistemas</li>
+  <li>Graduado em Engenharia Civil</li>
+  <li>Amante de games, futebol e tecnologia em geral</li>
 </ul>
 
 
